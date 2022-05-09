@@ -2,8 +2,8 @@
 variable "aws_region" {
   description = "The AWS region to use to create resources."
   default     = "us-west-2"
-  access_key = "AKIARUUXNQEPTX7CNZMV"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 
